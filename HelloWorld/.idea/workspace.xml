@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0303f3d7-6b2d-41bc-b246-578a37dd00ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YBcMktyrEPS5fOt1FfXhE1jvN4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0303f3d7-6b2d-41bc-b246-578a37dd00ee" name="Default Changelist" comment="" />
+      <created>1582419381695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582419381695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="678" height="230" key="GridCell.Tab.0.bottom" timestamp="1582421796155">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582421796155" />
+    <state width="678" height="230" key="GridCell.Tab.0.center" timestamp="1582421796154">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582421796154" />
+    <state width="678" height="230" key="GridCell.Tab.0.left" timestamp="1582421796154">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582421796154" />
+    <state width="678" height="230" key="GridCell.Tab.0.right" timestamp="1582421796155">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582421796155" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582419393690">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582419393690" />
+    <state x="603" y="49" width="837" height="825" key="find.popup" timestamp="1582420545021">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="603" y="49" width="837" height="825" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1582420545021" />
+    <state x="745" y="211" key="run.anything.popup" timestamp="1582421683275">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="745" y="211" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1582421683275" />
+  </component>
+</project>
